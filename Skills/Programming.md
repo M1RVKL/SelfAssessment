@@ -1,57 +1,57 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model: 👂 heard
+  - Modeling: 👂 heard
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
   - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Abstraction: 🎓 known
+  - Paradigm: 👂 heard
+  - Programm: 🎓 known
+  - Programming paradigm: 🎓 known
+  - Programming language: 🖐️ used
   - Contract
-  - Module
-  - Library
+  - Module: 👂 heard
+  - Library: 🖐️ used
   - Package
-  - Component
+  - Component: 🎓 known
   - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
+  - Platform: 🎓 known
+  - Source code: 👂 heard
+  - Object code: 👂 heard
+  - Machine code: 👂 heard
   - Microcode
-  - Software engineering
+  - Software engineering: 👂 heard
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
   - Don't repeat yourself (DRY)
-  - KISS principle
+  - KISS principle: 👂 heard
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value: 🎓 known
+  - Identifier: 🎓 known
+  - Variable: 🎓 known
+  - Constant: 🎓 known
+  - Scalar: 🎓 known
+  - Literal: 🎓 known
+  - Expression: 🎓 known
   - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
+  - Function: 🖐️ used
+  - Procedure: 👂 heard
+  - Method: 🖐️ used
+  - Class: 🖐️ used
+  - Prototype: 👂 heard
   - Event
-  - Type
-  - Flag
+  - Type: 🎓 known
+  - Flag: 🎓 known
   - Lexical scope
   - Code block
-  - Conditions
-  - Loops
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
   - Assignment
   - Regular expression
   - Interface
@@ -59,21 +59,21 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
+  - Camel case: 🖐️ used
   - Snake case
   - Kebab case
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types: 🎓 known
   - Reference types
   - Type systems
   - Strong typing
   - Weak typing
   - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Static typing: 🎓 known
+  - Dynamic typing: 🎓 known
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -81,17 +81,17 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
+  - Signature: 🎓 known
+  - Argument: 🎓 known
+  - Parameter: 🎓 known
+  - Pure function: 👂 heard
   - Lambda expression
   - Side effects
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion: 🎓 known
   - Tail call optimisation
   - Callback
   - Listener
@@ -105,16 +105,16 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array: 🖐️ used
   - Structure
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
+  - Object: 🖐️ used
+  - Collection: 👂 heard
   - Set
-  - Hash table
-  - Linked list
+  - Hash table: 🎓 known
+  - Linked list: 🖐️ used
   - Doubly list
   - Unrolled list
   - Circular list
@@ -128,7 +128,7 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON: 👂 heard
   - JSON5
   - YAML
 - Networking
@@ -138,7 +138,7 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL: 🎓 known
   - URN
   - URI
 - Process and tools
@@ -153,19 +153,19 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger: 🎓 known
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring: 🖐️ used
+  - Code review: 🎓 known
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
@@ -178,7 +178,7 @@
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti: 👂 heard
   - Silver bullet
   - Not invented here
   - Dead code
@@ -193,7 +193,7 @@
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case: 🖐️ used
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -209,20 +209,20 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers: 🎓 known
   - Kernel
   - Ring
-  - Virtual memory
-  - File system
-  - Linux
+  - Virtual memory: 👂 heard
+  - File system: 🎓 known
+  - Linux: 🖐️ used
   - Unix
   - BSD
   - MacOS
-  - Windows
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII: 🎓 known
   - Escape sequence
   - RFC
   - IETF

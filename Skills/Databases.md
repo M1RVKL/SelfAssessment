@@ -72,7 +72,7 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL
+  - MySQL: 👂 heard
   - MariaDB
   - MS SQL Server
   - Redis
@@ -89,6 +89,6 @@
   - Business intelligence
   - Big data
   - Data analysis
-  - AI tools
+  - AI tools: 👂 heard
   - Cloud databases
   - Data Visualization

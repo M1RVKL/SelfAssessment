@@ -6,7 +6,7 @@
   - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection: 👂 heard
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -17,11 +17,11 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
+  - Dependencies: `npm`, `node_modules`: 👂 heard
   - Files `package.json`, `package-lock.json`
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection: 👂 heard
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
@@ -33,8 +33,8 @@
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
-  - Web Streams API
+  - Streams API: 👂 heard
+  - Web Streams API: 👂 heard
   - Crypto API
   - Password hashing with crypto.scrypt
   - Web Crypto API
