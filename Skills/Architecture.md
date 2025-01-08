@@ -1,38 +1,38 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
+  - Modularity k
+  - Components k
+  - Directories k
+  - GRASP h
+  - SOLID h
+  - GoF patterns h
+  - CQS h
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code h
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
+  - Framework-agnostic h
+  - Code coverage k
+  - Cohesion h
   - Coupling
-  - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Cyclomatic complexity k
+  - Reliability k
+  - Quality k
+  - Availability k
+  - Flexibility k
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
-  - Domain-specific language (DSL)
+  - Domain-specific language (DSL) h
   - System vs applied code
-  - Multilayer approach
+  - Multilayer approach h
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming h
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI) k
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
@@ -40,14 +40,14 @@
   - Agent
   - Service locator
   - Message Queue (MQ)
-  - CQRS
+  - CQRS h
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram
+  - Entity-relationship diagram k
   - IDEF1X
   - UML
   - Work breakdown structure
-  - Budget estimation
+  - Budget estimation h
   - Distributed systems
   - High-intensive computing
   - Load balancing
@@ -70,7 +70,7 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds h
   - BPMN
   - Low-code
   - No-code
