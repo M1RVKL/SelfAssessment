@@ -1,38 +1,38 @@
 ## Architecture
 
 - Application structure
-  - Modularity k
-  - Components k
-  - Directories k
-  - GRASP h
-  - SOLID h
-  - GoF patterns h
-  - CQS h
+  - Modularity: 🎓 known
+  - Components: 🎓 known
+  - Directories: 🎓 known
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
+  - GoF patterns: 👂 heard
+  - CQS: 👂 heard
   - Leaking abstractions
-  - Multiparadigm code h
+  - Multiparadigm code: 👂 heard
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
-  - Framework-agnostic h
-  - Code coverage k
-  - Cohesion h
+  - Framework-agnostic: 👂 heard
+  - Code coverage: 🎓 known
+  - Cohesion: 👂 heard
   - Coupling
-  - Cyclomatic complexity k
-  - Reliability k
-  - Quality k
-  - Availability k
-  - Flexibility k
+  - Cyclomatic complexity: 🎓 known
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
-  - Domain-specific language (DSL) h
+  - Domain-specific language (DSL): 👂 heard
   - System vs applied code
-  - Multilayer approach h
+  - Multilayer approach: 👂 heard
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming h
+  - Metaprogramming: 👂 heard
   - Inversion of control (IoC)
-  - Dependency injection (DI) k
+  - Dependency injection (DI): 🎓 known
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
@@ -40,14 +40,14 @@
   - Agent
   - Service locator
   - Message Queue (MQ)
-  - CQRS h
+  - CQRS: 👂 heard
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram k
+  - Entity-relationship diagram: 🎓 known
   - IDEF1X
   - UML
   - Work breakdown structure
-  - Budget estimation h
+  - Budget estimation: 👂 heard
   - Distributed systems
   - High-intensive computing
   - Load balancing
@@ -70,7 +70,7 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds h
+  - Clouds: 👂 heard
   - BPMN
   - Low-code
   - No-code
